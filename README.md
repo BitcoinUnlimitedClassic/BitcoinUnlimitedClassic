@@ -10,7 +10,7 @@ The target of this [open source](https://en.wikipedia.org/wiki/Open-source_softw
 thanks supporting, the BitcoinUnlimitedClassic team
 
 ## Donations
-donation are welcome, and unrefundable at:
+donations are welcome, and unrefundable at:
 `1ApriL1iiDjEcM4dwHVGMesZiNvKG4PnBK`
 
 the above address, is well listed, for strong security reasons @ [http://directory.io](http://directory.io)
