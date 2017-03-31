@@ -5,7 +5,7 @@ We are proud to announce `BitcoinUnlimitedClassic`
 
 The target of this [open source](https://en.wikipedia.org/wiki/Open-source_software) project is to restore logical `assert` to BitcoinUnlimited project, and to impose the limit of the block size to 2^20 bytes:
 * we prefer `software crash` against`undefined behavior`;
-* 2^20 bytes, is bigger than 1000000 bytes and lesser than unlimited.
+* 2^20 bytes, are bigger than 1000000 bytes and lesser than unlimited.
 
 thanks supporting, the BitcoinUnlimitedClassic team
 
