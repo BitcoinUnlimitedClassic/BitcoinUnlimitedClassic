@@ -7,11 +7,11 @@ The target of this [open source](https://en.wikipedia.org/wiki/Open-source_softw
 * We prefer `software crash` against`undefined behavior`;
 * 2^20 bytes, are bigger than 1000000 bytes and lesser than unlimited.
 
-thanks supporting, the BitcoinUnlimitedClassic team
+Thanks supporting, the `BitcoinUnlimitedClassic` team
 
 ## Donations
 Donations are welcome, and unrefundable at:
 
 `1ApriL1iiDjEcM4dwHVGMesZiNvKG4PnBK`
 
-the above address, is well listed, for strong security reasons @ [http://directory.io](http://directory.io)
+For strong security reasons, the above address, is well listed @ [http://directory.io](http://directory.io)
