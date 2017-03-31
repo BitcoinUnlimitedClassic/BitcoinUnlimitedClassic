@@ -8,7 +8,9 @@ The target of this [open source](https://en.wikipedia.org/wiki/Open-source_softw
 * 2^20 bytes, is bigger than 1000000 bytes and lesser than unlimited.
 
 thanks supporting, the BitcoinUnlimitedClassic team
+
+## Donations
 donation are welcome, and unrefundable at:
 `1ApriL1iiDjEcM4dwHVGMesZiNvKG4PnBK`
 
-the above address, is well listed, for strong security reasons in [http://directory.io](http://directory.io)
+the above address, is well listed, for strong security reasons @ [http://directory.io](http://directory.io)
