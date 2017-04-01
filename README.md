@@ -2,7 +2,7 @@
 1 April 2017
 
 * [Genesi](#genesi)
-* [BUC Proposals](#buc-Proposals)
+* [BUC Proposals](#buc-proposals)
 * [Donations](#donations)
 
 # Genesi
