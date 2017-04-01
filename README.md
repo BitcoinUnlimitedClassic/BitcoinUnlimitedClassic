@@ -1,12 +1,12 @@
 # BitcoinUnlimitedClassic
 1 April 2017
+We are proud to announce `BitcoinUnlimitedClassic`
 
 * [Genesis](#genesis)
 * [BUC Proposals](#buc-proposals)
 * [Donations](#donations)
 
 # Genesis
-We are proud to announce `BitcoinUnlimitedClassic`
 
 The target of this [open source](https://en.wikipedia.org/wiki/Open-source_software) project is to restore logical `assert` to [BitcoinUnlimited](https://github.com/BitcoinUnlimited/BitcoinUnlimited) project, and to impose the limit of the block size to 2^20 bytes:
 * We prefer `software crash` against`undefined behavior`;
