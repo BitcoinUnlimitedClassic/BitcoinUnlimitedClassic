@@ -5,7 +5,7 @@
 * [BUC Proposals](#buc-Proposals)
 * [Donations](#donations)
 
-## Genesi
+# Genesi
 We are proud to announce `BitcoinUnlimitedClassic`
 
 The target of this [open source](https://en.wikipedia.org/wiki/Open-source_software) project is to restore logical `assert` to [BitcoinUnlimited](https://github.com/BitcoinUnlimited/BitcoinUnlimited) project, and to impose the limit of the block size to 2^20 bytes:
@@ -14,10 +14,10 @@ The target of this [open source](https://en.wikipedia.org/wiki/Open-source_softw
 
 Thanks supporting, the `BitcoinUnlimitedClassic` team
 
-## BUC Proposals
+# BUC Proposals
 Feel free and enjoy to contribute to the project, with `BUC Proposals`
 
-## Donations
+# Donations
 Donations are welcome, and unrefundable at:
 
 `1ApriL1iiDjEcM4dwHVGMesZiNvKG4PnBK`
