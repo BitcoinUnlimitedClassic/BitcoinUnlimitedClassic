@@ -5,6 +5,7 @@ We are proud to announce `BitcoinUnlimitedClassic`
 
 * [Genesis](#genesis)
 * [BUC Proposals](#buc-proposals)
+* [Thanks](#thanks)
 * [Donations](#donations)
 
 # Genesis
@@ -13,10 +14,13 @@ The target of this [open source](https://en.wikipedia.org/wiki/Open-source_softw
 * We prefer `software crash` against`undefined behavior`;
 * 2^20 bytes, are bigger than 1000000 bytes and lesser than unlimited.
 
-Thanks supporting, the `BitcoinUnlimitedClassic` team
-
 # BUC Proposals
 Feel free and enjoy to contribute to the project, with `BUC Proposals`
+
+# Thanks
+Thanks supporting, the `BitcoinUnlimitedClassic` team.
+
+We are working for a better Earth.
 
 # Donations
 Donations are welcome, and unrefundable at:
